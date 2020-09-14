@@ -6,3 +6,4 @@
 * Click "Ignore" to remove the "Hide"-/"Ignore"-Button for a part of the history
 * Click "Clear" to undo the hiding/ignoring for this PR
 The hiding/ignoring is saved to local storage.
+1. When pressing F2 again, the buttons will appear for new content (for example after loading hidden conversations)
